@@ -75,7 +75,7 @@ for tablet or mobile styling.
 Going in the opposite direction is _mobile-up_ or _mobile-first_, an approach gaining popularity in
 our modern, mobile world. The idea behind this approach is to design websites
 for small screen sizes first. One benefit to this approach is that it ensures
-users have a great experience on mobile, as there is no change it will end up
+users have a great experience on mobile, as there is no chance it will end up
 being a second thought during design.
 
 Many, if not most, internet users now interact with the through their cell
@@ -85,7 +85,7 @@ toolbar](https://developers.google.com/web/tools/chrome-devtools/device-mode/emu
 within the developer tools, that lets you mimic the proportions of popular
 mobile devices.
 
-Mobile-up design means that, by default, elements on the page are positioned are
+Mobile-up design means that, by default, elements on the page are
 positioned and sized for small screens, then overridden if a larger screen is
 detected.
 
